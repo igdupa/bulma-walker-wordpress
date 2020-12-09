@@ -29,7 +29,7 @@ WordPress Walker Nav Menu for Bulma, only 2 depth.
     ?>
   </div>
 </nav><!-- #site-navigation -->
-
+```
 
 #functions.php
 /**
