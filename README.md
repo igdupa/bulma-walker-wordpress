@@ -32,6 +32,7 @@ WordPress Walker Nav Menu for Bulma, only 2 depth.
 ```
 
 <h2>functions.php</h2>
+
 ```php
 /**
  * Custom nav walker file.
