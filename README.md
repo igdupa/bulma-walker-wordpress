@@ -1,8 +1,8 @@
-<h1>bulma-walker-wordpress</h1>
+<h1>Bulma Walker Wordpress</h1>
 
 WordPress Walker Nav Menu for Bulma, only 2 depth.
 
-<h2>HTML</h2>
+<h2>html</h2>
 
 ```html
 <nav id="site-navigation" class="main-navigation navbar">
