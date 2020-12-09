@@ -29,3 +29,13 @@ WordPress Walker Nav Menu for Bulma, only 2 depth.
     ?>
   </div>
 </nav><!-- #site-navigation -->
+
+
+#functions.php
+/**
+ * Custom nav walker file.
+ */
+function register_custom_nav_walker(){
+	require_once get_template_directory() . '/inc/walker-nav-menu.php';
+}
+add_action( 'after_setup_theme', 'register_custom_nav_walker' );
