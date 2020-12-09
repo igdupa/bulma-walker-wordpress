@@ -1,6 +1,7 @@
 # bulma-walker-wordpress
 WordPress Walker Nav Menu for Bulma, only 2 depth.
 
+```html
 <nav id="site-navigation" class="main-navigation navbar">
   <div class="navbar-brand">
     <a class="navbar-item" href="https://bulma.io">
